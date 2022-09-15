@@ -13,3 +13,9 @@
 
 ## Screenshots
 ![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
+
+* Link deploy: https://ntsoares.github.io/alurabooks/
+
+## Autor
+
+- GitHub - [Antonio Soares Neto](https://github.com/NtSoares)
